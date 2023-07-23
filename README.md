@@ -1,1 +1,1 @@
-https://github.com/juanburgos29/juanburgos29.github.io.git
+file:///C:/Users/Juan/Desktop/curso/intex.html
